@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="271.40958mm"
+   height="205.57532mm"
+   viewBox="0 0 271.40958 205.57532"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="gamelayout.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient821"
+       inkscape:collect="always">
+      <stop
+         id="stop817"
+         offset="0"
+         style="stop-color:#c03dfc;stop-opacity:1" />
+      <stop
+         id="stop819"
+         offset="1"
+         style="stop-color:#c0e2fc;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient
+       gradientTransform="matrix(1.4667117,0,0,1.4691455,-1.0097435,-137.05399)"
+       gradientUnits="userSpaceOnUse"
+       r="0.88459563"
+       fy="291.79614"
+       fx="1.5446428"
+       cy="291.79614"
+       cx="1.5446428"
+       id="radialGradient823"
+       xlink:href="#linearGradient821"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="462.98975"
+     inkscape:cy="355.94287"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="977"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.1453951,-52.024005)">
+    <g
+       transform="matrix(2.6458333,0,0,2.6458333,-32.316961,-590.94086)"
+       id="layer1-4"
+       inkscape:label="Layer 1">
+      <rect
+         ry="17.142977"
+         rx="5.1667018"
+         y="257.88541"
+         x="15"
+         height="60.000015"
+         width="31"
+         id="rect903"
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:4.70562029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text907"
+         y="264.3848"
+         x="19.35537"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           y="264.3848"
+           x="19.35537"
+           id="tspan905"
+           sodipodi:role="line">Controls:</tspan></text>
+      <text
+         id="text907-9"
+         y="285.9537"
+         x="18.474239"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           y="285.9537"
+           x="18.474239"
+           id="tspan905-5"
+           sodipodi:role="line">Game Play:</tspan></text>
+      <text
+         id="text907-8"
+         y="269.92017"
+         x="17.828369"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan945"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           y="269.92017"
+           x="17.828369"
+           sodipodi:role="line">Space, </tspan><tspan
+           id="tspan949"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           y="274.92017"
+           x="17.828369"
+           sodipodi:role="line">Left Mouse </tspan><tspan
+           id="tspan951"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           y="279.92017"
+           x="17.828369"
+           sodipodi:role="line">or Tap.</tspan></text>
+      <text
+         id="text907-8-7"
+         y="289.86493"
+         x="17.728743"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan951-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           y="289.86493"
+           x="17.728743"
+           sodipodi:role="line">Brake at the</tspan><tspan
+           id="tspan981"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           y="294.86493"
+           x="17.728743"
+           sodipodi:role="line">right time to</tspan><tspan
+           id="tspan983"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           y="299.86493"
+           x="17.728743"
+           sodipodi:role="line">brake out of</tspan><tspan
+           id="tspan985"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           y="304.86493"
+           x="17.728743"
+           sodipodi:role="line">the loop.</tspan><tspan
+           id="tspan987"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           y="309.86493"
+           x="17.728743"
+           sodipodi:role="line">Tap to brake.</tspan></text>
+    </g>
+    <g
+       transform="matrix(2.6458333,0,0,2.6458333,113.18066,-517.04814)"
+       id="layer1-6"
+       inkscape:label="Layer 1">
+      <path
+         sodipodi:open="true"
+         d="M 59.118562,268.42118 A 29.581024,29.389904 0 0 1 25.836365,291.89908 29.581024,29.389904 0 0 1 0.63618517,259.99643 29.581024,29.389904 0 0 1 31.500266,233.45727 29.581024,29.389904 0 0 1 59.662048,262.81332"
+         sodipodi:end="0"
+         sodipodi:start="0.19198622"
+         sodipodi:ry="29.389904"
+         sodipodi:rx="29.581024"
+         sodipodi:cy="262.81332"
+         sodipodi:cx="30.081024"
+         sodipodi:type="arc"
+         id="path835"
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:1.14771402;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:open="true"
+         d="M 54.000001,267.88542 A 24.276772,24.276215 0 0 1 26.685724,287.27829 24.276772,24.276215 0 0 1 6.0042558,260.92652 24.276772,24.276215 0 0 1 31.334016,239.00504 24.276772,24.276215 0 0 1 54.446033,263.2533"
+         sodipodi:end="0"
+         sodipodi:start="0.19198622"
+         sodipodi:ry="24.276215"
+         sodipodi:rx="24.276772"
+         sodipodi:cy="263.2533"
+         sodipodi:cx="30.169262"
+         sodipodi:type="arc"
+         id="path835-7"
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:0.94496113;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:open="true"
+         d="m 48.999999,266.88543 a 19.372393,19.37196 0 0 1 -21.796262,15.47514 19.372393,19.37196 0 0 1 -16.503411,-21.0282 19.372393,19.37196 0 0 1 20.212657,-17.49293 19.372393,19.37196 0 0 1 18.442942,19.34965"
+         sodipodi:end="0"
+         sodipodi:start="0.19198622"
+         sodipodi:ry="19.37196"
+         sodipodi:rx="19.372393"
+         sodipodi:cy="263.18909"
+         sodipodi:cx="29.983532"
+         sodipodi:type="arc"
+         id="path835-7-8"
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:0.75406092;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:open="true"
+         d="M 44.000001,265.88541 A 14.467994,14.467699 0 0 1 27.721774,277.44283 14.467994,14.467699 0 0 1 15.396439,261.73818 14.467994,14.467699 0 0 1 30.491972,248.67381 14.467994,14.467699 0 0 1 44.265819,263.12485"
+         sodipodi:end="0"
+         sodipodi:start="0.19198622"
+         sodipodi:ry="14.467699"
+         sodipodi:rx="14.467994"
+         sodipodi:cy="263.12485"
+         sodipodi:cx="29.797825"
+         sodipodi:type="arc"
+         id="path835-7-8-6"
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:0.56316012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(2.6458333,0,0,2.6458333,223.08509,-594.44148)"
+       id="layer1-67"
+       inkscape:label="Layer 1">
+      <ellipse
+         ry="1.1674461"
+         rx="1.1655121"
+         cy="291.63705"
+         cx="1.2558023"
+         id="path815"
+         style="fill:url(#radialGradient823);fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:0.14679283;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(2.6458333,0,0,2.6458333,-31.561008,-628.1715)"
+       id="layer1-7"
+       inkscape:label="Layer 1">
+      <rect
+         ry="2.0000136"
+         rx="5.1667018"
+         y="257.88541"
+         x="15"
+         height="7"
+         width="31"
+         id="rect903-8"
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:1.60727513;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text907-7"
+         y="262.92142"
+         x="16.873991"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           y="262.92142"
+           x="16.873991"
+           id="tspan905-8"
+           sodipodi:role="line">Time:</tspan></text>
+      <text
+         id="text907-9-2"
+         y="262.79419"
+         x="33.171631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           y="262.79419"
+           x="33.171631"
+           id="tspan905-5-1"
+           sodipodi:role="line">00.0s</tspan></text>
+    </g>
+    <g
+       transform="matrix(2.6458333,0,0,2.6458333,143.81994,-628.17149)"
+       id="layer1-7-7"
+       inkscape:label="Layer 1">
+      <rect
+         ry="2.0000136"
+         rx="5.1667018"
+         y="257.88541"
+         x="15"
+         height="7"
+         width="31"
+         id="rect903-8-4"
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:1.60727513;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text907-7-4"
+         y="262.92142"
+         x="16.873991"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           y="262.92142"
+           x="16.873991"
+           id="tspan905-8-0"
+           sodipodi:role="line">Time:</tspan></text>
+      <text
+         id="text907-9-2-5"
+         y="262.79419"
+         x="33.171631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           y="262.79419"
+           x="33.171631"
+           id="tspan905-5-1-4"
+           sodipodi:role="line">00.0s</tspan></text>
+    </g>
+    <g
+       transform="matrix(2.6458334,0,0,2.6458334,140.8076,-512.602)"
+       id="layer1-1"
+       inkscape:label="Layer 1">
+      <rect
+         ry="3.1428785"
+         rx="1.5000101"
+         y="255.88542"
+         x="15"
+         height="11"
+         width="9"
+         id="rect903-2"
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:1.0856204;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="M 23.000013,261.42134 17,264.88542 l 2.6e-5,-6.9282 z"
+         inkscape:randomized="0"
+         inkscape:rounded="3.0184188e-16"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.0472013"
+         sodipodi:arg1="3.7573273e-06"
+         sodipodi:r2="3.809253"
+         sodipodi:r1="4"
+         sodipodi:cy="261.42133"
+         sodipodi:cx="19.000013"
+         sodipodi:sides="3"
+         id="path818"
+         style="fill:#c0e2fc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.17999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="star" />
+    </g>
+  </g>
+</svg>
