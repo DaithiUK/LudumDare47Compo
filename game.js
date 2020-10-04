@@ -28,6 +28,13 @@ var brakeused=false;
 var brakecount=0;
 var brakemax=4;
 
+var nextloop=false;
+var seconds=0;
+var bestseconds=1000;
+var dispseconds=0;
+
+var onTimerTickId; 
+
 document.addEventListener("click", function(event) {
 Tap()
 });
@@ -66,7 +73,7 @@ function Tap(){
             loop=1;
             const startbutton = document.getElementById("startbutton");//document.createElementNS('http://www.w3.org/2000/svg', 'startbutton');
             startbutton.setAttributeNS(null, 'visibility', 'hidden');
-            setInterval(onTimerTick, 33); // 33 milliseconds = ~ 30 frames per sec
+            onTimerTickId=setInterval(onTimerTick, 33); // 33 milliseconds = ~ 30 frames per sec
             break;
         case 1: // loading
 
@@ -85,6 +92,7 @@ function Tap(){
 
 function endlevel() {
     run=false;
+    clearInterval(onTimerTickId);
     if (seconds<bestseconds) {
             const scoreboxc = document.getElementById("currentscore");//.getElementById("scoreboxtime-8");
             const scoretextc = document.getElementById("scoreboxtime-8");
@@ -104,10 +112,6 @@ function endlevel() {
     state=0;
 }
 
-var nextloop=false;
-var seconds=0;
-var bestseconds=1000;
-var dispseconds=0;
 
 function onTimerTick() {
     // Do stuff.
