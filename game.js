@@ -85,13 +85,29 @@ function Tap(){
 
 function endlevel() {
     run=false;
+    if (seconds<bestseconds) {
+            const scoreboxc = document.getElementById("currentscore");//.getElementById("scoreboxtime-8");
+            const scoretextc = document.getElementById("scoreboxtime-8");
+
+    
+            bestseconds=seconds;
+            const scorebox = document.getElementById("bestscore");//.getElementById("scoreboxtime-8");
+            const scoretext = document.getElementById("scoreboxtime");
+            scoretext.textContent=scoretextc.textContent;//bestseconds.toFixed(2);
+            
+            
+            
+            
+        }
     const startbutton = document.getElementById("startbutton");//document.createElementNS('http://www.w3.org/2000/svg', 'startbutton');
     startbutton.setAttributeNS(null, 'visibility', 'visible');
     state=0;
 }
 
 var nextloop=false;
-
+var seconds=0;
+var bestseconds=1000;
+var dispseconds=0;
 
 function onTimerTick() {
     // Do stuff.
@@ -135,7 +151,17 @@ function onTimerTick() {
         const circleNode = document.getElementById("player");//document.createElementNS('http://www.w3.org/2000/svg', 'fault');
         moveGroup(circleNode,x,y);
         
-        ticks=ticks-1;
+        ticks=ticks+1;
+        
+        // update score
+        seconds=ticks*0.033;
+        const scorebox = document.getElementById("currentscore");//.getElementById("scoreboxtime-8");
+        const scoretext = document.getElementById("scoreboxtime-8");
+        dispseconds=seconds;
+        scoretext.textContent=dispseconds.toFixed(2);
+
+        
+        
         if (ticks==maxticks) { endlevel();}
     }
 }
@@ -148,6 +174,10 @@ function loadGame() {
     iy=parseInt(player.children[0].getAttributeNS(null, 'cy'));
     //px=px+parseInt(player.children[0].getAttributeNS(null, 'rx'))/2;
     iy=iy+parseInt(player.children[0].getAttributeNS(null, 'ry'))/2;
+    
+    const scorebox = document.getElementById("bestscore");//.getElementById("scoreboxtime-8");
+    const scoretext = document.getElementById("scoreboxtext");
+    scoretext.textContent='Best';
 }
 
 
