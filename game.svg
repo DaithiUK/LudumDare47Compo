@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="768"
+   viewBox="0 0 270.93335 203.2"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="game.svg">
+   <script type="text/javascript" xlink:href="game.js" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient821"
+       inkscape:collect="always">
+      <stop
+         id="stop817"
+         offset="0"
+         style="stop-color:#c03dfc;stop-opacity:1" />
+      <stop
+         id="stop819"
+         offset="1"
+         style="stop-color:#c0e2fc;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient
+       gradientTransform="matrix(1.4667117,0,0,1.4691455,-1.0097435,-137.05399)"
+       gradientUnits="userSpaceOnUse"
+       r="0.88459563"
+       fy="291.79614"
+       fx="1.5446428"
+       cy="291.79614"
+       cx="1.5446428"
+       id="radialGradient823"
+       xlink:href="#linearGradient821"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="462.98975"
+     inkscape:cy="298.80001"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="977"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:document-rotation="0"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.1453951,-52.024005)">
+    <g
+       transform="matrix(2.6458333,0,0,2.6458333,221.93363,-597.96799)"
+       id="player"
+       inkscape:label="Layer 1">
+      <ellipse
+         ry="1.1674461"
+         rx="1.1655121"
+         cy="291.63705"
+         cx="1.2558023"
+         id="path815"
+         style="fill:url(#radialGradient823);fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:0.146793;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <image
+       sodipodi:absref="C:\Program Files\EasyPHP-Devserver-17\eds-www\ludumdare47\game\graphics\helpdisplay.svg"
+       xlink:href="graphics/helpdisplay.svg"
+       y="93.348152"
+       x="1.9188991"
+       id="image1006"
+       height="161.39583"
+       width="84.666664"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none" />
+    <g
+       inkscape:label="Layer 1"
+       id="bestscore"
+       transform="matrix(2.6458333,0,0,2.6458333,-36.480773,-628.34365)">
+      <rect
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="scoreboxborder"
+         width="31"
+         height="7"
+         x="15"
+         y="257.88541"
+         rx="2.0000002"
+         ry="2.0000136"
+         inkscape:label="#scoreboxborder" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="16.873991"
+         y="262.92142"
+         id="scoreboxtext"
+         inkscape:label="#scoreboxtext"><tspan
+           sodipodi:role="line"
+           id="tspan905"
+           x="16.873991"
+           y="262.92142"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px">Time:</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="33.171631"
+         y="262.79419"
+         id="scoreboxtime"
+         inkscape:label="#scoreboxtime"><tspan
+           sodipodi:role="line"
+           id="tspan905-5"
+           x="33.171631"
+           y="262.79419"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px">00.0s</tspan></text>
+    </g>
+    <g
+       inkscape:label="Layer 1"
+       id="currentscore"
+       transform="matrix(2.6458333,0,0,2.6458333,148.72757,-627.96567)">
+      <rect
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="scoreboxborder-6"
+         width="31"
+         height="7"
+         x="15"
+         y="257.88541"
+         rx="2.0000002"
+         ry="2.0000136"
+         inkscape:label="#scoreboxborder" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="16.873991"
+         y="262.92142"
+         id="scoreboxtext-2"
+         inkscape:label="#scoreboxtext"><tspan
+           sodipodi:role="line"
+           id="tspan905-1"
+           x="16.873991"
+           y="262.92142"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px">Time:</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="33.171631"
+         y="262.79419"
+         id="scoreboxtime-8"
+         inkscape:label="#scoreboxtime"><tspan
+           sodipodi:role="line"
+           id="tspan905-5-6"
+           x="33.171631"
+           y="262.79419"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px">00.0s</tspan></text>
+    </g>
+    <image
+       sodipodi:absref="C:\Program Files\EasyPHP-Devserver-17\eds-www\ludumdare47\game\graphics\startbutton.svg"
+       xlink:href="graphics/startbutton.svg"
+       inkscape:label="#startbutton"
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="31.272427"
+       height="31.272427"
+       id="startbutton"
+       x="176.78268"
+       y="159.1658" />
+    <g
+       inkscape:label="Layer 1"
+       id="layer1-8"
+       transform="matrix(2.6458333,0,0,2.6458333,113.04844,-520.84812)">
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:1.00045;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="loop4"
+         sodipodi:type="arc"
+         sodipodi:cx="29.999142"
+         sodipodi:cy="262.9216"
+         sodipodi:rx="29.498919"
+         sodipodi:ry="29.497967"
+         sodipodi:start="0.19198622"
+         sodipodi:end="0"
+         sodipodi:arc-type="arc"
+         sodipodi:open="true"
+         inkscape:label="#loop4"
+         d="M 58.956082,268.55008 A 29.498919,29.497967 0 0 1 25.766264,292.1143 29.498919,29.497967 0 0 1 0.63603033,260.09435 29.498919,29.497967 0 0 1 31.414445,233.4576 29.498919,29.497967 0 0 1 59.49806,262.9216" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:0.998887;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="loop3"
+         sodipodi:type="arc"
+         sodipodi:cx="30.141792"
+         sodipodi:cy="263.22562"
+         sodipodi:rx="24.249861"
+         sodipodi:ry="24.249086"
+         sodipodi:start="0.19198622"
+         sodipodi:end="0"
+         sodipodi:arc-type="arc"
+         sodipodi:open="true"
+         inkscape:label="#loop3"
+         d="M 53.946115,267.85256 A 24.249861,24.249086 0 0 1 26.662116,287.22376 24.249861,24.249086 0 0 1 6.0035731,260.90144 24.249861,24.249086 0 0 1 31.305255,239.00446 24.249861,24.249086 0 0 1 54.391653,263.22562" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:0.993809;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="loop2"
+         sodipodi:type="arc"
+         sodipodi:cx="29.86059"
+         sodipodi:cy="263.06598"
+         sodipodi:rx="19.252554"
+         sodipodi:ry="19.251951"
+         sodipodi:start="0.19198622"
+         sodipodi:end="0"
+         sodipodi:arc-type="arc"
+         sodipodi:open="true"
+         inkscape:label="#loop2"
+         d="M 48.75942,266.73942 A 19.252554,19.251951 0 0 1 27.097991,282.1187 19.252554,19.251951 0 0 1 10.696671,261.22076 19.252554,19.251951 0 0 1 30.784291,243.8362 19.252554,19.251951 0 0 1 49.113144,263.06598" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:0.985405;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="loop1"
+         sodipodi:type="arc"
+         sodipodi:cx="29.579432"
+         sodipodi:cy="262.90631"
+         sodipodi:rx="14.256908"
+         sodipodi:ry="14.25648"
+         sodipodi:start="0.19198622"
+         sodipodi:end="0"
+         sodipodi:arc-type="arc"
+         sodipodi:open="true"
+         inkscape:label="#loop1"
+         d="M 43.5744,265.62658 A 14.256908,14.25648 0 0 1 27.53367,277.01526 14.256908,14.25648 0 0 1 15.388159,261.53989 14.256908,14.25648 0 0 1 30.263451,248.66625 14.256908,14.25648 0 0 1 43.83634,262.90631" />
+    </g>
+  </g>
+</svg>
