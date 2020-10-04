@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+    onload="loadGame"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -15,7 +16,13 @@
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="game.svg">
-   <script type="text/javascript" xlink:href="game.js" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" />
+  <script
+     xlink:href="game.js"
+     id="script2"
+     xlink:type="simple"
+     xlink:show="other"
+     xlink:actuate="onLoad"
+     type="text/javascript" />
   <defs
      id="defs2">
     <linearGradient
@@ -49,9 +56,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="462.98975"
-     inkscape:cy="298.80001"
+     inkscape:zoom="1.4"
+     inkscape:cx="603.69535"
+     inkscape:cy="388.4604"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -74,7 +81,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -84,7 +91,7 @@
      id="layer1"
      transform="translate(-1.1453951,-52.024005)">
     <g
-       transform="matrix(2.6458333,0,0,2.6458333,221.93363,-597.96799)"
+       transform="matrix(2.6458333,0,0,2.6458333,189.09626,-596.82101)"
        id="player"
        inkscape:label="Layer 1">
       <ellipse
@@ -98,13 +105,13 @@
     <image
        sodipodi:absref="C:\Program Files\EasyPHP-Devserver-17\eds-www\ludumdare47\game\graphics\helpdisplay.svg"
        xlink:href="graphics/helpdisplay.svg"
-       y="93.348152"
-       x="1.9188991"
-       id="image1006"
-       height="161.39583"
-       width="84.666664"
+       preserveAspectRatio="none"
        inkscape:svg-dpi="96"
-       preserveAspectRatio="none" />
+       width="84.666664"
+       height="161.39583"
+       id="image1006"
+       x="1.9188991"
+       y="93.348152" />
     <g
        inkscape:label="Layer 1"
        id="bestscore"
@@ -186,14 +193,14 @@
     <image
        sodipodi:absref="C:\Program Files\EasyPHP-Devserver-17\eds-www\ludumdare47\game\graphics\startbutton.svg"
        xlink:href="graphics/startbutton.svg"
-       inkscape:label="#startbutton"
-       preserveAspectRatio="none"
-       inkscape:svg-dpi="96"
-       width="31.272427"
-       height="31.272427"
-       id="startbutton"
+       y="159.1658"
        x="176.78268"
-       y="159.1658" />
+       id="startbutton"
+       height="31.272427"
+       width="31.272427"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none"
+       inkscape:label="#startbutton" />
     <g
        inkscape:label="Layer 1"
        id="layer1-8"
