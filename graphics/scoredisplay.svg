@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="326.07275"
-   height="86.072754"
-   viewBox="0 0 32.607275 8.6072754"
+   width="320"
+   height="80"
+   viewBox="0 0 32 8"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="scoredisplay.svg">
   <defs
      id="defs2" />
@@ -26,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5717075"
-     inkscape:cx="109.72239"
-     inkscape:cy="-26.551401"
+     inkscape:cx="106.68601"
+     inkscape:cy="-29.587766"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -41,12 +39,13 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid833"
-       originx="-14.196362"
-       originy="-27.196376" />
+       originx="-14.5"
+       originy="-27.500013" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -64,22 +63,24 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-14.196362,-257.08177)">
+     transform="translate(-14.5,-257.38541)">
     <rect
-       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:1.60727513;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect903"
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="scoreboxborder"
        width="31"
        height="7"
        x="15"
        y="257.88541"
-       rx="5.1667018"
-       ry="2.0000136" />
+       rx="2.0000002"
+       ry="2.0000136"
+       inkscape:label="#scoreboxborder" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="16.873991"
        y="262.92142"
-       id="text907"><tspan
+       id="scoreboxtext"
+       inkscape:label="#scoreboxtext"><tspan
          sodipodi:role="line"
          id="tspan905"
          x="16.873991"
@@ -90,7 +91,8 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="33.171631"
        y="262.79419"
-       id="text907-9"><tspan
+       id="scoreboxtime"
+       inkscape:label="#scoreboxtime"><tspan
          sodipodi:role="line"
          id="tspan905-5"
          x="33.171631"

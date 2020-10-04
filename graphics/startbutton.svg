@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,15 +7,58 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="100.8562"
-   height="120.8562"
-   viewBox="0 0 10.08562 12.08562"
+   width="118.19496"
+   height="118.19493"
+   viewBox="0 0 11.819496 11.819493"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="startbutton.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Sstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Sstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.3,0,0,0.3,-0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#c0e2fc;fill-opacity:1;fill-rule:evenodd;stroke:#c0e2fc;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path863" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1179"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#c0e2fc;fill-opacity:1;fill-rule:evenodd;stroke:#c0e2fc;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1177" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#c0e2fc;fill-opacity:1;fill-rule:evenodd;stroke:#c0e2fc;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path833" />
+    </marker>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,8 +67,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5717075"
-     inkscape:cx="-2.3210087"
-     inkscape:cy="-9.1595348"
+     inkscape:cx="-3.223514"
+     inkscape:cy="-10.062048"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -41,12 +82,13 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid833"
-       originx="-14.45719"
-       originy="-25.457189" />
+       originx="-14.54744"
+       originy="-25.54744" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -64,23 +106,24 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-14.45719,-255.34261)">
+     transform="translate(-14.547441,-255.43286)">
     <rect
-       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:1.0856204;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect903"
-       width="9"
-       height="11"
-       x="15"
-       y="255.88542"
-       rx="1.5000101"
-       ry="3.1428785" />
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="startbuttonborder"
+       width="10.819496"
+       height="10.819493"
+       x="15.047441"
+       y="255.93286"
+       rx="1.8032615"
+       ry="1.9525594"
+       inkscape:label="#startbuttonborder" />
     <path
        sodipodi:type="star"
-       style="fill:#c0e2fc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.17999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path818"
+       style="fill:#c0e2fc;fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="startbuttonicon"
        sodipodi:sides="3"
-       sodipodi:cx="19.000013"
-       sodipodi:cy="261.42133"
+       sodipodi:cx="19.45722"
+       sodipodi:cy="261.34262"
        sodipodi:r1="4"
        sodipodi:r2="3.809253"
        sodipodi:arg1="3.7573273e-06"
@@ -88,6 +131,7 @@
        inkscape:flatsided="true"
        inkscape:rounded="3.0184188e-16"
        inkscape:randomized="0"
-       d="M 23.000013,261.42134 17,264.88542 l 2.6e-5,-6.9282 z" />
+       d="m 23.45722,261.34264 -6.000013,3.46407 2.6e-5,-6.9282 z"
+       inkscape:label="#startbuttonicon" />
   </g>
 </svg>

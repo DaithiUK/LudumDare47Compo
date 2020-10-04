@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="357.05621"
-   height="647.05634"
-   viewBox="0 0 35.705621 64.705634"
+   width="320"
+   height="610.00018"
+   viewBox="0 0 32 61.000019"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="helpdisplay.svg">
   <defs
      id="defs2" />
@@ -26,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5717075"
-     inkscape:cx="417.44052"
-     inkscape:cy="239.65195"
+     inkscape:cx="398.91242"
+     inkscape:cy="221.12389"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -41,12 +39,13 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid833"
-       originx="-12.64719"
-       originy="27.352811" />
+       originx="-14.5"
+       originy="25.500005" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -64,89 +63,92 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-12.64719,-255.5326)">
-    <rect
-       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:4.70562029;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect903"
-       width="31"
-       height="60.000015"
-       x="15"
-       y="257.88541"
-       rx="5.1667018"
-       ry="17.142977" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="19.35537"
-       y="264.3848"
-       id="text907"><tspan
-         sodipodi:role="line"
-         id="tspan905"
+     transform="translate(-14.5,-257.38541)">
+    <g
+       id="g861">
+      <rect
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c0e2fc;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect903"
+         width="31"
+         height="60.000015"
+         x="15"
+         y="257.88541"
+         rx="5"
+         ry="6.0000043" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="19.35537"
          y="264.3848"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px">Controls:</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="18.474239"
-       y="285.9537"
-       id="text907-9"><tspan
-         sodipodi:role="line"
-         id="tspan905-5"
+         id="text907"><tspan
+           sodipodi:role="line"
+           id="tspan905"
+           x="19.35537"
+           y="264.3848"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px">Controls:</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="18.474239"
          y="285.9537"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px">Game Play:</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="17.828369"
-       y="269.92017"
-       id="text907-8"><tspan
-         sodipodi:role="line"
+         id="text907-9"><tspan
+           sodipodi:role="line"
+           id="tspan905-5"
+           x="18.474239"
+           y="285.9537"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px">Game Play:</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="17.828369"
          y="269.92017"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
-         id="tspan945">Space, </tspan><tspan
-         sodipodi:role="line"
-         x="17.828369"
-         y="274.92017"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
-         id="tspan949">Left Mouse </tspan><tspan
-         sodipodi:role="line"
-         x="17.828369"
-         y="279.92017"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
-         id="tspan951">or Tap.</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="17.728743"
-       y="289.86493"
-       id="text907-8-7"><tspan
-         sodipodi:role="line"
+         id="text907-8"><tspan
+           sodipodi:role="line"
+           x="17.828369"
+           y="269.92017"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           id="tspan945">Space, </tspan><tspan
+           sodipodi:role="line"
+           x="17.828369"
+           y="274.92017"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           id="tspan949">Left Mouse </tspan><tspan
+           sodipodi:role="line"
+           x="17.828369"
+           y="279.92017"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           id="tspan951">or Tap.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke:none;stroke-width:0.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="17.728743"
          y="289.86493"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
-         id="tspan951-5">Brake at the</tspan><tspan
-         sodipodi:role="line"
-         x="17.728743"
-         y="294.86493"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
-         id="tspan981">right time to</tspan><tspan
-         sodipodi:role="line"
-         x="17.728743"
-         y="299.86493"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
-         id="tspan983">brake out of</tspan><tspan
-         sodipodi:role="line"
-         x="17.728743"
-         y="304.86493"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
-         id="tspan985">the loop.</tspan><tspan
-         sodipodi:role="line"
-         x="17.728743"
-         y="309.86493"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
-         id="tspan987">Tap to brake.</tspan></text>
+         id="text907-8-7"><tspan
+           sodipodi:role="line"
+           x="17.728743"
+           y="289.86493"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           id="tspan951-5">Brake at the</tspan><tspan
+           sodipodi:role="line"
+           x="17.728743"
+           y="294.86493"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           id="tspan981">right time to</tspan><tspan
+           sodipodi:role="line"
+           x="17.728743"
+           y="299.86493"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           id="tspan983">brake out of</tspan><tspan
+           sodipodi:role="line"
+           x="17.728743"
+           y="304.86493"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           id="tspan985">the loop.</tspan><tspan
+           sodipodi:role="line"
+           x="17.728743"
+           y="309.86493"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:Meiryo;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c0e2fc;fill-opacity:1;stroke-width:0.1px"
+           id="tspan987">Tap to brake.</tspan></text>
+    </g>
   </g>
 </svg>
