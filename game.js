@@ -34,6 +34,8 @@ var bestseconds=1000;
 var dispseconds=0;
 
 var onTimerTickId; 
+var end=false;
+
 
 document.addEventListener("click", function(event) {
 Tap()
@@ -91,8 +93,9 @@ function Tap(){
 
 
 function endlevel() {
-    run=false;
     clearInterval(onTimerTickId);
+    run=false;
+    
     if (seconds<bestseconds) {
             const scoreboxc = document.getElementById("currentscore");//.getElementById("scoreboxtime-8");
             const scoretextc = document.getElementById("scoreboxtime-8");
@@ -145,7 +148,7 @@ function onTimerTick() {
                 w=w+5;
                 h=h+5;
                 nextloop=true;
-                if(loop==maxloop) { endlevel(); }
+                if(loop==maxloop) { end=true; }
                 loop=loop+1;
             }
                 brake=false;
@@ -162,9 +165,9 @@ function onTimerTick() {
         const scorebox = document.getElementById("currentscore");//.getElementById("scoreboxtime-8");
         const scoretext = document.getElementById("scoreboxtime-8");
         dispseconds=seconds;
-        scoretext.textContent=dispseconds.toFixed(2);
+        scoretext.textContent=dispseconds.toFixed(2) + "s";
 
-        
+        if (end) { endlevel(); }
         
         if (ticks==maxticks) { endlevel();}
     }
@@ -181,7 +184,7 @@ function loadGame() {
     
     const scorebox = document.getElementById("bestscore");//.getElementById("scoreboxtime-8");
     const scoretext = document.getElementById("scoreboxtext");
-    scoretext.textContent='Best';
+    scoretext.textContent='Best:';
 }
 
 
@@ -192,7 +195,7 @@ function loadLevel() {
     if (runonce == false) { runonce=true; loadGame(); }
     w = 12.5;
     h = 12.5;
-
+    end=false;
     px = 400;
     py = 400;
 

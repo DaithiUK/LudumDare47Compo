@@ -1,0 +1,36 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <title>Stuck in a Loop</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+</head>
+
+<body>
+   
+<object type="image/svg+xml" data="game.svg" id="game">
+</object>
+
+</body>
+
+<script>
+const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0)
+const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0)
+
+const oratio=1.33333333;
+const vratio=vw/vh;
+
+if (oratio>vratio) {
+    document.getElementById("game").width = vw;
+}
+else {
+    document.getElementById("game").height = vh;
+    
+}
+</script>
+</html>
