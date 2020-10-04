@@ -22,6 +22,12 @@ var rspeed = -2;
 
 var state=0; //0 waiting to start 1 loading 2 running 3 ended 
 
+var runonce=false;
+var brake=false;
+var brakeused=false;
+var brakecount=0;
+var brakemax=4;
+
 document.addEventListener("click", function(event) {
 Tap()
 });
@@ -42,6 +48,15 @@ document.addEventListener('keydown', function(event) {
     }
 });
 
+function brakePlayer() {
+    if (brakeused==false) {
+        brake=true;
+        brakeused=true;
+        brakecount=0;
+    }
+    
+}
+
 function Tap(){
     switch (state) {
         case 0: //waiting
@@ -57,7 +72,7 @@ function Tap(){
 
             break;
         case 2: // running
-        
+            brakePlayer();
             break;
         case 3: //ended
     
@@ -66,6 +81,8 @@ function Tap(){
     
 }
 
+
+
 function endlevel() {
     run=false;
     const startbutton = document.getElementById("startbutton");//document.createElementNS('http://www.w3.org/2000/svg', 'startbutton');
@@ -73,25 +90,46 @@ function endlevel() {
     state=0;
 }
 
+var nextloop=false;
+
 
 function onTimerTick() {
     // Do stuff.
     
     if (run) {
         angle=angle+rspeed;
-        if (angle==-360) { angle=0; }
+        if (angle<=-360) { angle=0; }
         x = px + w * Math.cos(angle * Math.PI / 180);
         y = py + h * Math.sin(angle * Math.PI / 180);
         
         
-        if (angle==0) {
+        if (angle < 0 && angle> -5) {
+            nextloop=false;
+            if (rspeed>=-10 ) {
+                rspeed=rspeed-1;
+            }
+        
+        }
+        if (brake) {
+            if (brakecount<brakemax) {
+                if (rspeed<-2 ) {
+                    rspeed=rspeed+1;
+                }
+                brakecount=brakecount+1;
+            }
+        }
+        if (angle <= -355 && angle> -359 && !nextloop) {
+        //if (angle==0) {
             if (rspeed==-2) {
+            
                 w=w+5;
                 h=h+5;
-                
+                nextloop=true;
                 if(loop==maxloop) { endlevel(); }
                 loop=loop+1;
             }
+                brake=false;
+                brakeused=false;
         }
         
         const circleNode = document.getElementById("player");//document.createElementNS('http://www.w3.org/2000/svg', 'fault');
@@ -117,7 +155,7 @@ function loadGame() {
 function loadLevel() {
     x = 100;
     y = 100;
-    loadGame();
+    if (runonce == false) { runonce=true; loadGame(); }
     w = 12.5;
     h = 12.5;
 
